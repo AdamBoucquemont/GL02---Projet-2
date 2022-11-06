@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@caporal/core": "^2.0.2",
+    "colors": "^1.4.0",
+    "package.json": "^2.0.1",
+    "vega": "^5.17.0",
+    "vega-lite": "^4.17.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
